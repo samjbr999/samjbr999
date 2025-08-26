@@ -1,46 +1,51 @@
 # Hi, I'm Sam Jabr  
 
-**Junior Penetration Tester | Security Researcher**  
-Based in London
+
+I am an aspiring **Junior Penetration Tester** with hands-on experience in **web security, network reconnaissance, and exploitation labs**.  
+Currently building my cybersecurity portfolio through **TryHackMe**, GitHub projects, and continuous learning.  
+Focused on **penetration testing, vulnerability assessment, and secure coding practices**.
 
 ---
 
-## About Me
-- Entry-level penetration tester with hands-on experience in web, infrastructure, and Active Directory testing.  
-- Skilled in exploiting and securing systems using HackTheBox (Medium/Hard), TryHackMe (80+ hours), and custom vulnerable lab projects.  
-- Experienced in writing professional penetration test reports aligned with CREST/NCSC standards.  
-- Currently preparing for OSCP to further strengthen my practical exploitation skills.  
+## Featured Repositories
+
+Here are my main cybersecurity projects:
+
+- [Vuln-Labs](https://github.com/samjbr999/Vuln-Labs)  
+  Write-ups from OWASP Top 10 labs (Broken Access Control, Injection, Authentication Failures, etc.).
+
+- [Jr-Penetration-Tester-Labs](https://github.com/samjbr999/Jr-Penetration-Tester-Labs)  
+  Hands-on reports using Burp Suite, Metasploit, and Linux Privilege Escalation techniques.
+
+- [Network-Security-Labs](https://github.com/samjbr999/Network-Security-Labs)  
+  Reconnaissance, Nmap scanning, and protocol exploitation reports from the Network Security path.
 
 ---
 
-## Certifications
-- CompTIA Security+ (2025)  
-- eLearnSecurity Junior Penetration Tester (eJPT)  
-- Offensive Security Certified Professional (OSCP) – in progress  
+## Skills & Tools
+
+- Pentesting Tools: Burp Suite, Metasploit, Nmap, Netcat  
+- Web Security: OWASP Top 10, SQL Injection, XSS, CSRF, File Upload Exploits  
+- Network Security: Reconnaissance, Port Scanning, Protocol Enumeration  
+- OS & Platforms: Linux, Windows, TryHackMe Labs, HackTheBox (beginner)  
+- Reporting: Markdown, GitHub, PDF report writing  
 
 ---
 
-## Featured Projects
-- **[Pentest-Reports](link-to-your-repo)** – Professional-style reports with executive summaries, risk ratings, technical proof-of-concepts, and remediation advice.  
-- **[Pentest-Scripts](link-to-your-repo)** – Collection of Python/Bash scripts for enumeration, scanning, and automation.  
-- **[Custom-Vulnerable-VM](link-to-your-repo)** – Custom vulnerable VM created and exploited to simulate real-world penetration testing.  
+## Current Learning
+
+- Advancing through the TryHackMe Jr Penetration Tester Path  
+- Expanding into Web Application Pentesting  
+- Preparing for eJPT / OSCP entry-level certifications  
 
 ---
 
-## Notes & Methodology
-- **[Pentest-Notes](link-to-your-repo)** – Enumeration methods, privilege escalation cheatsheets, and OWASP Top 10 notes.  
-- Documenting lessons learned from HackTheBox & TryHackMe (no active machine spoilers).  
+## Connect
+
+- LinkedIn: [Add your LinkedIn here]  
+- Email: [Add your email here]  
 
 ---
 
-## Tech & Tools
-- Languages: Python, Bash, PowerShell  
-- Tools: Nmap, Burp Suite, Metasploit, Hydra, sqlmap, Gobuster, Nikto  
-- Reporting: CREST/NCSC-style, CVSS scoring, client-facing remediation  
+Check out my pinned repos to explore detailed **lab reports and pentest write-ups**.
 
----
-
-## Contact
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [Your Email]  
-- GitHub: [github.com/samjbr999](https://github.com/samjbr999)  
